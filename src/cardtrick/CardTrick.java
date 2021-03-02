@@ -16,7 +16,7 @@ public class CardTrick {
      */
     public static void main(String[] args) {
         
-        int handsize = 52;
+        int handsize = 60;
         Card [] cards = new Card [handsize];
         
         int countCards = 0;
